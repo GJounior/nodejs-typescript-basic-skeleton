@@ -2,7 +2,7 @@
   "name": "nodejs-typescript-skeleton",
   "version": "1.0.0",
   "description": "Skeleton to begin a new nodejs-typescript based",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/main.js"
