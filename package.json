@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-typescript-skeleton",
+  "version": "1.0.0",
+  "description": "Skeleton to begin a new nodejs-typescript based",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "skeleton"
+  ],
+  "author": "zcode",
+  "license": "MIT"
+}
